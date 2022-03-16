@@ -19,13 +19,13 @@
   ### Technology Stack
   <div align='center'>
     <span>
-      <img src="https://img.shields.io/badge/python-1572B6?style=flat-square&logo=Python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-1572B6?style=flat-square&logo=Python&logoColor=white"/>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/><span>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
       <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/python-1572B6?style=flat-square&logo=Python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/mysql-61DAFB?style=flat-square&logo=MySQL&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-61DAFB?style=flat-square&logo=MySQL&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Mongodb-61DAFB?style=flat-square&logo=mongodb&logoColor=white"/>
     <p></p>  
   </div>
   
