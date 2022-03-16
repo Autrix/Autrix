@@ -31,11 +31,8 @@
   
 ---      
       
-  ### My GitHub Stats
-  ![palashmon's gitHub stats](https://github-readme-stats.vercel.app/api?username=palashmon&show_icons=true&theme=radical)   
-   
   ### Profile Visit Count   
-  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=palashmon.palashmon)
+  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=autrix.autrix)
   <br> 
 </div> 
 
