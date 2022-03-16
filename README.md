@@ -1,6 +1,6 @@
 <div align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Palash%20Git&fontAlign=75&fontAlignY=40&color=gradient" height="200"/>
-  <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Autrix%20Git&fontAlign=75&fontAlignY=40&color=gradient" height="300"/>
+  <h1>Hey, nice to see you.</h1>
   <p></p>
   
   <!--
@@ -10,23 +10,23 @@
   ![GitHub followers](https://img.shields.io/github/followers/palashmon?style=social)
   -->
   
-  <p>Welcome to my page! </br> I am Palash, a passionate programmer & front-end developer.</p>
+  <p>✨ Creator of Erumbot | Self-thaught Developer ✨</p>
   <br>
-  <p>
-  MCTS · Priority - ✨ Health, Family and Freedom ✨
-  </p>
+  <p>I'm a Full time IT/Network Enginneer / Also a Web Developer in my free time.</p>
   
 ---
 
   ### Technology Stack
   <div align='center'>
-    <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/><span>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+    <span>
+      <img src="https://img.shields.io/badge/python-1572B6?style=flat-square&logo=Python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/><span>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/python-1572B6?style=flat-square&logo=Python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/mysql-61DAFB?style=flat-square&logo=MySQL&logoColor=white"/>
     <p></p>  
-    <a href="https://stackoverflow.com/users/1823841/pala%d1%95%d0%bd"><img src="https://stackoverflow.com/users/flair/1823841.png" width="208" height="58" alt="profile for palaѕн at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for palaѕн at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>  
   </div>
   
 ---      
