@@ -6,7 +6,7 @@
   [![Twitter Follow](https://img.shields.io/twitter/follow/iAutrix?style=social)](https://twitter.com/intent/follow?screen_name=iAutrix)
   ![GitHub followers](https://img.shields.io/github/followers/Autrix?style=social)
   
-  <p>✨ Creator of Erumbot | Self-thaught Developer ✨</p>
+  <p>✨ Creator of Erumbot | Self-taught Developer ✨</p>
   <br>
   <p>I'm a Full time IT/Network Enginneer / Also a Web Developer in my free time.</p>
   
