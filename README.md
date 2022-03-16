@@ -1,13 +1,11 @@
 <div align='center'>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Autrix%20Git&fontAlign=75&fontAlignY=40&color=gradient" height="300"/>
-  <h1>Hey, nice to see you.</h1>
+  <h1>Hey, Welcome to my humble page.</h1>
   <p></p>
   
   <!--
-  [![Twitter Follow](https://img.shields.io/twitter/follow/palashv2?style=social)](https://twitter.com/intent/follow?screen_name=palashv2)
-  [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCnnhIfN-A4JPs2ogiN59MRA?style=social)](https://www.youtube.com/channel/UCnnhIfN-A4JPs2ogiN59MRA?sub_confirmation=1)
-  [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCnnhIfN-A4JPs2ogiN59MRA?style=social)](https://www.youtube.com/channel/UCnnhIfN-A4JPs2ogiN59MRA?sub_confirmation=1)
-  ![GitHub followers](https://img.shields.io/github/followers/palashmon?style=social)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/iAutrix?style=social)](https://twitter.com/intent/follow?screen_name=iAutrix)
+  ![GitHub followers](https://img.shields.io/github/followers/Autrix?style=social)
   -->
   
   <p>✨ Creator of Erumbot | Self-thaught Developer ✨</p>
