@@ -3,10 +3,8 @@
   <h1>Hey, Welcome to my humble page.</h1>
   <p></p>
   
-  <!--
   [![Twitter Follow](https://img.shields.io/twitter/follow/iAutrix?style=social)](https://twitter.com/intent/follow?screen_name=iAutrix)
   ![GitHub followers](https://img.shields.io/github/followers/Autrix?style=social)
-  -->
   
   <p>✨ Creator of Erumbot | Self-thaught Developer ✨</p>
   <br>
