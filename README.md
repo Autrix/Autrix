@@ -1,9 +1,9 @@
 <div align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Autrix&fontAlign=75&fontAlignY=40&color=gradient" height="300"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Amjed Ahmad Bajhmoom&fontAlign=75&fontAlignY=40&color=gradient" height="300"/>
   <h1> 👋 Hey, Welcome to my humble page.</h1>
   <p></p>
   
-  [![Twitter Follow](https://img.shields.io/twitter/follow/iAutrix?style=social)](https://twitter.com/intent/follow?screen_name=Amjed Ahmad Bajhmoom)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/iAutrix?style=social)](https://twitter.com/intent/follow?screen_name=iAutrix)
   ![GitHub followers](https://img.shields.io/github/followers/Autrix?style=social)
   
   <p>✨ Creator of Erumbot | Self-taught Developer ✨</p>
