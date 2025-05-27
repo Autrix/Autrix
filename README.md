@@ -8,7 +8,7 @@
   
   <p>✨ Creator of Erumbot | Self-taught Developer ✨</p>
   <br>
-  <p>I'm a Full time IT/Network Enginneer - Also a Web Developer in my free time.</p>
+  <p>Developer since 2012, Built many applications / websites / tools / bots.</p>
   
 ---
 
