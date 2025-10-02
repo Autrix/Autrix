@@ -1,43 +1,61 @@
-<div align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Autrix&fontAlign=75&fontAlignY=40&color=gradient" height="300"/>
-  <h1> 👋 Hey, Welcome to my humble page.</h1>
-  <p></p>
-  
-  [![Twitter Follow](https://img.shields.io/twitter/follow/iAutrix?style=social)](https://twitter.com/intent/follow?screen_name=iAutrix)
+<div align="center">
+
+  <!-- Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Autrix&fontSize=60&fontAlign=50&fontAlignY=35" />
+
+  <h2>👋 Welcome to my GitHub!</h2>
+  <p><em>Self-taught developer with 10+ years of experience building applications, websites, tools, and bots 🚀</em></p>
+
+  <!-- Social Badges -->
+  [![Twitter Follow](https://img.shields.io/twitter/follow/iAutrix?style=social)](https://twitter.com/iAutrix)
   ![GitHub followers](https://img.shields.io/github/followers/Autrix?style=social)
-  
-  <p>✨ Creator of Erumbot | Self-taught Developer ✨</p>
-  <br>
-  <p>Developer since 2012, Built many applications / websites / tools / bots.</p>
-  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Autrix&color=blueviolet&style=flat-square)
+
 ---
 
-  ### Technology Stack
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-  ![Python](https://img.shields.io/badge/Python-%23430098.svg?style=for-the-badge&logo=python&logoColor=white) 
-  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-  ![Flask](https://img.shields.io/badge/Flask-%23FF2D20.svg?style=for-the-badge&logo=flask&logoColor=white) 
-  ![Django](https://img.shields.io/badge/Django-%23000000.svg?style=for-the-badge&logo=django&logoColor=white) 
-  ![Pillow](https://img.shields.io/badge/Pillow-CA4245?style=for-the-badge&logo=pillow&logoColor=white) 
-  ![MaterializeCSS](https://img.shields.io/badge/MaterializeCSS-black?style=for-the-badge&logo=MaterializeCSS&badgeColor=010101) 
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/Laravel-%2300C4CC.svg?style=for-the-badge&logo=Laravel&logoColor=white) 
-  
----   
-      
-  ### Profile Visit Count   
-  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=autrix.autrix)
-  <br> 
-</div> 
+### 🛠️ Tech Stack  
 
-<!---
-Autrix/Autrix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/csharp-%23239120.svg?&style=for-the-badge&logo=csharp&logoColor=white" />
+
+  <!-- Frameworks -->
+  <br>
+  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/flask-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" />
+
+  <!-- Databases -->
+  <br>
+  <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats  
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Autrix&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Autrix&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+---
+
+### 🎯 Fun Fact
+💡 Developer since 2012 — still learning, still building, still experimenting.  
+✨ Turning ideas into reality, one project at a time.  
+
+---
+
+  <!-- Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+
+</div>
