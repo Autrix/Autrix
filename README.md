@@ -49,10 +49,9 @@
 
 ## 📊 GitHub Stats  
 
-<p>
-  ![OctoStats contributions](https://octostats.mondov.dev/widget?username=Autrix&type=contributions&timeframe=1y&width=500)  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Autrix&layout=compact&theme=github_dark)  
-</p>
+![OctoStats contributions](https://octostats.mondov.dev/widget?username=Autrix&type=contributions&timeframe=1y&width=500)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Autrix&layout=compact&theme=github_dark)  
+
 
 ---
 
