@@ -50,8 +50,8 @@
 ## 📊 GitHub Stats  
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Autrix&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Autrix&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  ![OctoStats contributions](https://octostats.mondov.dev/widget?username=Autrix&type=contributions&timeframe=1y&width=500)  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Autrix&layout=compact&theme=github_dark)  
 </p>
 
 ---
